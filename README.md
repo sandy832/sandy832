@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @sandy832
+- 👀 I’m interested in automation testing .
+- 🌱 I’m currently learning all the skills related to automation
+- testing .
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+sandy832/sandy832 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
